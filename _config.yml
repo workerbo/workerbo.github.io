@@ -1,4 +1,4 @@
-title: work
+
 SEOTitle: worekerbo的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: wnsyz@hotmail.com
@@ -7,6 +7,7 @@ keyword: "wokerbo的博客,Java,数据库
 url: "https://workerbo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/workerbo/workerbo.github.io.git" # you code repository
+title: work
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
